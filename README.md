@@ -30,8 +30,6 @@ To discover all the features that this free React admin template has to offer, w
 ---
 <h3>Updrade to PRO</h3>
 
-<p>The premium version of this template comes with a lot more components, features and options making it a very powerful friend in your development endeavors. You can download a copy of it from</p>
-
 ---
 
 <h2>
@@ -39,7 +37,7 @@ To discover all the features that this free React admin template has to offer, w
 </h2>
 <ol>
     <li>Make sure you have the latest stable versions for Node.js and NPM installed</li>
-    <li>Clone repository: <code>git clone https://github.com/bloomui/tokyo-free-black-nextjs-admin-dashboard-js.git</code></li>
+    <li>Clone repository: <code>git clone https://github.com/Ololawrence/dashboard.git</code></li>
     <li>Install dependencies: Run <code>npm install</code> inside the project folder</li>
     <li>Start dev server: After the install finishes, run <code>yarn dev</code>. A browser window will open on http://localhost:3000 where you''ll see the live preview</li>
 </ol>

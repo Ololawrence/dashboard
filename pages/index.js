@@ -37,7 +37,7 @@ function Overview() {
   return (
     <OverviewWrapper>
       <Head>
-        <title>Black NextJS Javascript Admin Dashboard</title>
+        <title> Javascript Admin Dashboard</title>
       </Head>
       <HeaderWrapper>
         <Container maxWidth="lg">
@@ -73,7 +73,7 @@ function Overview() {
             target="_blank"
             rel="noopener noreferrer"
           >
-           olorunwa lawrence
+            olorunwa lawrence
           </Link>
         </Typography>
       </Container>
